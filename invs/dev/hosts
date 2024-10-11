@@ -1,3 +1,2 @@
 [site]
 localhost ansible_connection=local
-192.168.36.222 ansible_ssh_user=orangepi ansible_sudo_pass=orangepi
